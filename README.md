@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://1drv.ms/i/s!AodSt9pbiOdu_DC90ymgP0N0QKKv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://wxoheg.dm2301.livefilestore.com/y3mRekZCcfxTjY4a5eej3zR80XLx6f85rBVuiMAlUsmNUpG7JjQzcQPmVPxEMxrObVGfJWA1fMr4moPMKRk5JQXengH7PSELL2Rwcto8TLNpxKixecgirCpWOpezSHwT8vwITiHv7BQMjdOOq-1RVaYvC4LhR1-O0ENl-WjzQB00pM/ToDoApp.gif?psid=1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
