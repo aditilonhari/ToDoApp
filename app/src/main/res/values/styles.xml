@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="CustomButtonStyle">
+        <item name="android:background">@color/buttonBackgroundColor</item>
+    </style>
+
+    <style name="CustomListViewStyle" parent="Widget.AppCompat.ListView">
+        <item name="android:divider">@color/dividerColor</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:width">1dp</item>
+        <item name="android:dashGap">1dp</item>
+        <item name="android:dashWidth">1dp</item>
+        <item name="android:layerType">software</item>
+    </style>
+
+    <style name="CustomTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:typeface">monospace</item>
+        <item name="android:fontFamily"> sans-serif</item>
+        <item name="android:textStyle"> italic</item>
+        <item name="android:textColor"> @color/textColor</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000080</color>
+    <color name="colorPrimaryDark">#6666b2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="listViewBackgroundColor">#2F3F66</color>
+    <color name="buttonBackgroundColor">#000080</color>
+    <color name="textColor">#E5E4E2</color>
+    <color name="dividerColor">#000080</color>
+</resources>
