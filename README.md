@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://1drv.ms/i/s!AodSt9pbiOdu_G_JgdM9ZZYhcdqU' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/aditilonhari/ToDoApp/blob/master/ToDoApp_final.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
