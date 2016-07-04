@@ -4,7 +4,7 @@ To-do App is an android app that allows building a todo list and basic todo item
 
 Submitted by: Aditi Lonhari
 
-Time spent: 8-10 hours spent in total
+Time spent: 15-20 hours spent in total
 
 ## User Stories
 
@@ -16,24 +16,26 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* Optional:Tweak the style improving the UI / UX, play with colors, images or backgrounds
-
-The following **additional** features are implemented:
-
-* Additional: Working on the extended features to complete it before the submission  deadline
+* Optional: Tweak the style improving the UI / UX, play with colors, images or backgrounds
+* Suggested: Persist the todo items into SugarORM(SQLite) instead of a text file
+* Suggested: Improve style of the todo items in the list using a custom adapter(Array Adapter)
+* Suggested: Add support for completion due dates for todo items (and display within listview item)
+* Suggested: Use a DialogFragment instead of new Activity for editing items
+* Optional: Add support for selecting the status of each todo item (and display in listview item)
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://goo.gl/aJSbi4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://goo.gl/xsYJUL' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
-This was my first time creating an Android app and working on Android studio. It was a great experience although, I faced a few challenges while working on this. 
-I was getting an error on creating the ArrayList using todo.txt file. I tried to debug it and find solution for it online, when ultimately one of my friends, who is an android developer, 
-suggested to create a local file and push it to device internal memory. It worked fine and later on I could figure the error I was facing.
-Also, setting up styles on the various Widgets was a bit different coming from html-css world. Various subdirectories in "values" folder were used for styling.
+This was my first time creating an Android app and working on Android studio. It was a great experience although, I faced a few challenges while working on this. I was getting an error on creating the ArrayList using todo.txt file. I tried to debug it and find solution for it online, when ultimately one of my friends, who is an android developer, suggested to create a local file and push it to device internal memory. It worked fine and later on I could figure the error I was facing. Also, setting up styles on the various Widgets was a bit different coming from html-css world. Various subdirectories in "values" folder were used for styling.
+
+Extended Features:
+I worked on additional features after submitting the initial app. 
+I have added all of the suggested features such as replacing the text file with a SQLite database. I used the simpler version, SugarORM, which is a wrapper API for the SQL queries and database creation. I created a custom array-adapter to hold the complex data model which consisted of a Task object holding a task name, task due date and task status. I also tried my hands at various dialog fragments such as Toasts and AlertDialog. I learned a lot about creating complex apps while working on the extended features and I feel that I am more confident and eager to try and create more android apps.
 
 ## License
 
