@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://y3oieg.dm2301.livefilestore.com/y3mNhiZQivRt7do_5vgkyXy7qpCI0snxUrAaI1kQ6aYCzCyCKItGnTPzwWbS_f0d95dXzbMkyhcxEnrrmkTWBUIKG1_zQC7UG6piLCyjWymiiSmIN3cuRhnhJ5ENUPzDIC9EKmUik-531qAp119a0oRQUKtYoygAXgIX4jOYvZvT6g?width=477&height=773&cropmode=none' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://1drv.ms/i/s!AodSt9pbiOdu_G_JgdM9ZZYhcdqU' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
