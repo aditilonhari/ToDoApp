@@ -15,7 +15,9 @@ public class Task extends SugarRecord<Task> {
     private String status;
 
     public Task(){
-
+        this.name = "";
+        this.date = "";
+        this.status = "";
     }
 
     public Task(String name, String date, String status) {

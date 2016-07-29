@@ -9,6 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
+import android.widget.ListAdapter;
+import android.widget.ListView;
 import android.widget.TextView;
 
 import com.example.aditi.todoapp.Database.Task;
@@ -70,5 +72,6 @@ public class CustomTaskAdapter extends ArrayAdapter<Task> {
 
         return convertView;
     }
+
 
 }
