@@ -22,6 +22,9 @@ The following **optional** features are implemented:
 * Suggested: Add support for completion due dates for todo items (and display within listview item)
 * Suggested: Use a DialogFragment instead of new Activity for editing items
 * Optional: Add support for selecting the status of each todo item (and display in listview item)
+* Optional: Added Custom Toast with an image and text
+* Optional: Added two listviews to separate list items depending on the status
+* Optional: Custom the button to round shape
 
 ## Video Walkthrough 
 
